@@ -54,3 +54,8 @@ Blackholing/Null Routing: In severe cases, an ISP might "blackhole" or null rout
 Web Application Firewalls (WAFs): WAFs can help protect against application-layer DDoS attacks by filtering and monitoring HTTP traffic between a web application and the Internet.
 
 Capacity Planning: Ensuring sufficient bandwidth and server resources to handle peak legitimate traffic, with some buffer for potential attacks, can reduce vulnerability.
+RUN this my tools tools ddos 
+Install tools github
+--sudo gitclone...
+--python3.ddos.py..
+-
